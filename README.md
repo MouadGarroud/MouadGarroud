@@ -4,7 +4,7 @@
 - Nickname: Badass
 - Instagram:https://www.instagram.com/mouadgarroud/
 - Telegram:https://t.me/MouadGarroud
-- X:https://x.com/MouadGarroud?mx=2
+- X:https://x.com/MouadGarroud
 
 <!---
 MouadGarroud/MouadGarroud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
