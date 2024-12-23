@@ -2,7 +2,6 @@
 - 👀 I’m interested in cyber security and developement web and application
 - 🌱 I’m currently learning multipe laguage like php , javascript  , python , java.
 - Nickname: Badass
-- Instagram:https://www.instagram.com/mouadgarroud/
 - Telegram:https://t.me/MouadGarroud
 
 <!---
