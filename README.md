@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MouadGarroud
 - 👀 I’m interested in cyber security and developement web and application
 - 🌱 I’m currently learning multipe laguage like php , javascript , java.
-- Nickname: Badass
 - Telegram:https://t.me/MouadGarroud
