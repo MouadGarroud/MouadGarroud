@@ -1,6 +1,6 @@
 # Mouad Garroud - IT Developer
 
-**Location**: Sale, Morocco  
+
 **Email**: mouadgarroud@gmail.com  
 
 ---
