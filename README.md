@@ -1,7 +1,5 @@
 # Mouad Garroud - IT Developer
-
-
-**Email**: mouadgarroud@gmail.com  
+  
 
 ---
 
