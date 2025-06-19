@@ -10,5 +10,5 @@
 
 ## 📬 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/mouadgarroud)
-- 📧 mouad.garroud@example.com
+- [LinkedIn](https://www.linkedin.com/in/mouadgarroud) -=>https://www.linkedin.com/in/mouadgarroud
+- 📧 mouadgarroud@gmail.com
