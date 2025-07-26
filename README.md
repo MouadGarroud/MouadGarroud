@@ -1,4 +1,4 @@
-# Mouad Garroud --- Full-Stack Developer ||| Desktop Application
+# Mouad Garroud --- Full-Stack Developer 
   
 ---
 
