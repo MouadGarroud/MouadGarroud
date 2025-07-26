@@ -2,7 +2,7 @@
   
 ---
 
-#<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">#🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-#<h2>📬 Contact Me</h2>
+<h2>#📬 Contact Me</h2>
 <p>
   <a href="mailto:mouadgarroud@gmail.com">
     <img src="https://img.icons8.com/fluency/28/gmail-new.png"/> mouadgarroud@gmail.com
