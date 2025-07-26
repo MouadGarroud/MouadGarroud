@@ -32,7 +32,22 @@
 
 
 
-## 📬 Contact Me
+<h2>📬 Contact Me</h2>
+<p>
+  <a href="mailto:mouadgarroud@gmail.com">
+    <img src="https://img.icons8.com/fluency/28/gmail-new.png"/> mouadgarroud@gmail.com
+  </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/mouadgarroud" target="_blank">
+    <img src="https://img.icons8.com/color/28/linkedin.png"/> linkedin.com/in/mouadgarroud
+  </a>
+  <br/>
+  <a href="https://github.com/MouadGarroud" target="_blank">
+    <img src="https://img.icons8.com/material-rounded/28/000000/github.png"/> github.com/MouadGarroud
+  </a>
+  <br/>
+  <a href="https://instagram.com/mouadgarroud" target="_blank">
+    <img src="https://img.icons8.com/fluency/28/instagram-new.png"/> @mouadgarroud
+  </a>
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/mouadgarroud) -=>https://www.linkedin.com/in/mouadgarroud
-- 📧 mouadgarroud@gmail.com
